@@ -4,6 +4,10 @@
     box-sizing: border-box;
 }
 
+h1 {
+    color: rgb(95, 16, 16);
+}
+
 body {
     height: 100vh;
     background: url(images/library.jpg);
